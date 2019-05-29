@@ -1,0 +1,34 @@
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\BUS.dll
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\BUS.pdb
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\DAO.dll
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\DTO.dll
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\DAO.pdb
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\DTO.pdb
+D:\Project\C #\QLTV 3 tier\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Project\C #\QLTV 3 tier\BUS\obj\Debug\BUS.dll
+D:\Project\C #\QLTV 3 tier\BUS\obj\Debug\BUS.pdb
+D:\Project\C #\QLTV 3 tier\BUS\bin\Debug\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\Properties\AssemblyInfo.cs
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\DAO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\DTO.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\DAO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\DTO.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Debug\BUS.dll
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\obj\Debug\BUS.pdb
+D:\Documents\CNPM\QLTV 3 tier\QLTV 3 tier\BUS\bin\Debug\Microsoft.CSharp.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\Properties\AssemblyInfo.cs
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\BUS.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\BUS.pdb
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\DAO.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\DTO.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\Microsoft.CSharp.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\DAO.pdb
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\bin\Debug\DTO.pdb
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\obj\Debug\BUS.dll
+D:\cnpm\QLTV\+QLTV\QLTV\BUS\obj\Debug\BUS.pdb
